@@ -10,7 +10,6 @@ Simple UI built using Streamlit
 
 🛠️ Installation
 Clone this repository and move into the project folder:
-git clone https://github.com/Kain2503/QnA-Chatbot-with-LLM.git
 cd QnA-Chatbot-with-LLM
 
 Install dependencies:
@@ -27,3 +26,4 @@ Go to Google AI Studio
 Generate an API key.
 Copy it.
 Paste it into the Streamlit sidebar when running the app.
+
